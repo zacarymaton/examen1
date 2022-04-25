@@ -2,3 +2,5 @@ terraform.tfstate
 terraform.tfstate.backup
 xenial-server-cloudimg-amd64-disk1.img
 .terraform.lock.hcl
+alvaro
+alvaro.pub
